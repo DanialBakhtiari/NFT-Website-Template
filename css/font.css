@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'kalamehThin';
+    src: url(../font/KalamehWeb-Thin.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'kalamehRegular';
+    src: url(../font/KalamehWeb-Regular.woff2) format('woff2');
+}
+
+
+@font-face {
+    font-family: 'kalamehBold';
+    src: url(../font/KalamehWeb-Bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'kalamehBlack';
+    src: url(../font/KalamehWeb-Black.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'robotoMedium';
+    src: url(../font/Roboto-Medium.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'farsiNumberThin';
+    src: url(../font/KalamehWeb\(FaNum\)-Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'farsiNumberBold';
+    src: url(../font/KalamehWeb\(FaNum\)-Bold.woff) format('woff');
+}
